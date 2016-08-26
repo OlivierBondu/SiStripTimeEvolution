@@ -1,6 +1,11 @@
 # PyCharm stuff
 .idea/
 
+# root files and figures
+*.root
+*.pdf
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
